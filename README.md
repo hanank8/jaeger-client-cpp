@@ -1,7 +1,12 @@
 [![Build Status][ci-img]][ci] [![Coverage Status][cov-img]][cov] [![Appveyor Build][appveyor]][appveyor] [![OpenTracing 1.0 Enabled][ot-img]][ot-url]
 
+![Ubuntu](https://github.com/jaegertracing/jaeger-client-cpp/workflows/Ubuntu/badge.svg)
+![MacOS](https://github.com/jaegertracing/jaeger-client-cpp/workflows/MacOS/badge.svg)
+![Windows](https://github.com/jaegertracing/jaeger-client-cpp/workflows/Windows/badge.svg)
+
+
 # jaeger-client-cpp
-C++ OpenTracing binding for [Jaeger](https://www.jaegertracing.io/)
+[Jaeger](https://www.jaegertracing.io/) SDK with [OpenTracing API for C++](https://github.com/opentracing/opentracing-cpp) binding.
 
 ## Contributing
 
